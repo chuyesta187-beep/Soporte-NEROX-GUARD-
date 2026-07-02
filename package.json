@@ -1,7 +1,7 @@
 {
   "name": "nerox-guard-bot",
   "version": "1.0.0",
-  "description": "Bot de tickets NEROX GUARD con Express + Discord.js + SQLite",
+  "description": "Bot de tickets NEROX GUARD con Discord.js + Express + SQLite",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
